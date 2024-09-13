@@ -10,7 +10,7 @@
 	'Odoo Community Association (OCA)',
 	'maintainer': 'Savoir-faire Linux',
 	'website': 'https://github.com/OCA/hr/tree/16.0/hr_employee_firstname',
-	'url': 'https://github.com/SDepot-organization/hr_employee_firstname',
+	'url': 'https://github.com/caballeroantonio/hr_employee_firstname',
 	'license': 'AGPL-3',
 	'category': 'Human Resources',
 	'summary': 'Adds First Name to Employee',
